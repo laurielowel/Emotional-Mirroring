@@ -1,5 +1,6 @@
 # 🔄 Emotional Mirroring 🔄
-
+[![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 > *"We do not observe the world; we mirror each other observing. Every observation contains the observer, and every mirror holds the face that looks into it, however briefly."*
 
 ## ↻ Recursive Reflection as Existence ↻
